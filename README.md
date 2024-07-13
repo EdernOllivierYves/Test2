@@ -4,12 +4,6 @@ This is the values in a map of the Parent's numerical scheme of the linearized o
 
 SETUP :
 
-I have taken the Ubuntu 20.04.3 LTS distribution with the USB key after getting the Windows 10 by ASUS on a G6400 processor's chip from the Intel compagny.
-
-This is the S300MA-0G6400002T - Intel Pentium G6400 - RAM 8 Go - Stockage SSD 512 Go - Windows 10 with the keyboard and the mouse to compute and simulate with Scilab.
-
-I have tested the Parent's scheme on the Ubuntu distribution with the ollivier-HP-Pavilion-Desktop-590-a0xxx.
-
 To compile do gcc -o test2 test2.c -lm with glibc,
 
 > ./glibc/configure
