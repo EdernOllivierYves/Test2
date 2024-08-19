@@ -1,5 +1,5 @@
 //include "/usr/include/linux/math.h"
-#include <stdio.h> 
+#include <stdio.h>
 #include <math.h>
 #include "test1.h"
 //#include "glibc/math/math.h"
